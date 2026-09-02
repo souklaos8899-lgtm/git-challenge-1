@@ -1,2 +1,4 @@
 hello
 This is my houese
+แก้ไฟล์เดิมด้วย
+fix more 1
